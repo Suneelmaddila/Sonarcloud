@@ -1,0 +1,74 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\panka\\Downloads\\BankManagementSystem-master\\BankManagementSystem-master\\src\\Data\\BankManagementSystem.Models\\BankManagementSystem.Models.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\panka\\Downloads\\BankManagementSystem-master\\BankManagementSystem-master\\src\\Data\\BankManagementSystem.Models\\BankManagementSystem.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\panka\\Downloads\\BankManagementSystem-master\\BankManagementSystem-master\\src\\Data\\BankManagementSystem.Models\\BankManagementSystem.Models.csproj",
+        "projectName": "BankManagementSystem.Models",
+        "projectPath": "C:\\Users\\panka\\Downloads\\BankManagementSystem-master\\BankManagementSystem-master\\src\\Data\\BankManagementSystem.Models\\BankManagementSystem.Models.csproj",
+        "packagesPath": "C:\\Users\\panka\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\panka\\Downloads\\BankManagementSystem-master\\BankManagementSystem-master\\src\\Data\\BankManagementSystem.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\panka\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://pkgs.dev.azure.com/ashish06928/SonarQube/_packaging/loginFeed/nuget/v3/index.json": {},
+          "https://pkgs.dev.azure.com/ashish06928/d044fcca-1271-427c-9ae4-f765d08dfbd2/_packaging/myfeed/nuget/v3/index.json": {},
+          "https://pkgs.dev.azure.com/ashish069280968/Batch-AA/_packaging/HBCLoginArtifact/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

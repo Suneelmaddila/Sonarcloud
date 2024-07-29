@@ -1,0 +1,7 @@
+C:\Users\panka\Downloads\BankManagementSystem-master\BankManagementSystem-master\src\Web\obj\Debug\net5.0\BankManagementSystem.Web.csproj.AssemblyReference.cache
+C:\Users\panka\Downloads\BankManagementSystem-master\BankManagementSystem-master\src\Web\obj\Debug\net5.0\BankManagementSystem.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\panka\Downloads\BankManagementSystem-master\BankManagementSystem-master\src\Web\obj\Debug\net5.0\BankManagementSystem.Web.AssemblyInfoInputs.cache
+C:\Users\panka\Downloads\BankManagementSystem-master\BankManagementSystem-master\src\Web\obj\Debug\net5.0\BankManagementSystem.Web.AssemblyInfo.cs
+C:\Users\panka\Downloads\BankManagementSystem-master\BankManagementSystem-master\src\Web\obj\Debug\net5.0\BankManagementSystem.Web.csproj.CoreCompileInputs.cache
+C:\Users\panka\Downloads\BankManagementSystem-master\BankManagementSystem-master\src\Web\obj\Debug\net5.0\BankManagementSystem.Web.RazorAssemblyInfo.cache
+C:\Users\panka\Downloads\BankManagementSystem-master\BankManagementSystem-master\src\Web\obj\Debug\net5.0\BankManagementSystem.Web.RazorAssemblyInfo.cs

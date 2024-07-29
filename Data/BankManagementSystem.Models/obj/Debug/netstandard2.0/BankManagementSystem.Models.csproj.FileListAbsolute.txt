@@ -1,0 +1,10 @@
+C:\Users\panka\Downloads\BankManagementSystem-master\BankManagementSystem-master\src\Data\BankManagementSystem.Models\bin\Debug\netstandard2.0\BankManagementSystem.Models.deps.json
+C:\Users\panka\Downloads\BankManagementSystem-master\BankManagementSystem-master\src\Data\BankManagementSystem.Models\bin\Debug\netstandard2.0\BankManagementSystem.Models.dll
+C:\Users\panka\Downloads\BankManagementSystem-master\BankManagementSystem-master\src\Data\BankManagementSystem.Models\bin\Debug\netstandard2.0\BankManagementSystem.Models.pdb
+C:\Users\panka\Downloads\BankManagementSystem-master\BankManagementSystem-master\src\Data\BankManagementSystem.Models\obj\Debug\netstandard2.0\BankManagementSystem.Models.csproj.AssemblyReference.cache
+C:\Users\panka\Downloads\BankManagementSystem-master\BankManagementSystem-master\src\Data\BankManagementSystem.Models\obj\Debug\netstandard2.0\BankManagementSystem.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\panka\Downloads\BankManagementSystem-master\BankManagementSystem-master\src\Data\BankManagementSystem.Models\obj\Debug\netstandard2.0\BankManagementSystem.Models.AssemblyInfoInputs.cache
+C:\Users\panka\Downloads\BankManagementSystem-master\BankManagementSystem-master\src\Data\BankManagementSystem.Models\obj\Debug\netstandard2.0\BankManagementSystem.Models.AssemblyInfo.cs
+C:\Users\panka\Downloads\BankManagementSystem-master\BankManagementSystem-master\src\Data\BankManagementSystem.Models\obj\Debug\netstandard2.0\BankManagementSystem.Models.csproj.CoreCompileInputs.cache
+C:\Users\panka\Downloads\BankManagementSystem-master\BankManagementSystem-master\src\Data\BankManagementSystem.Models\obj\Debug\netstandard2.0\BankManagementSystem.Models.dll
+C:\Users\panka\Downloads\BankManagementSystem-master\BankManagementSystem-master\src\Data\BankManagementSystem.Models\obj\Debug\netstandard2.0\BankManagementSystem.Models.pdb

@@ -1,0 +1,8 @@
+﻿@if (User.IsInRole(RolesConstants.Administrator))
+{
+    <li class="nav-item">
+        <a class="nav-link text-dark" asp-area="" asp-controller="Assets" asp-action="Create">
+            <button class="btn btn-sm btn-warning">Create Asset</button>
+        </a>
+    </li>
+}

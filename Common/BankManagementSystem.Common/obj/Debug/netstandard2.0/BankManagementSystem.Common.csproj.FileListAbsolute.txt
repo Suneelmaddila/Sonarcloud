@@ -1,0 +1,17 @@
+C:\Users\panka\Downloads\BankManagementSystem-master\BankManagementSystem-master\src\Common\BankManagementSystem.Common\bin\Debug\netstandard2.0\BankManagementSystem.Common.deps.json
+C:\Users\panka\Downloads\BankManagementSystem-master\BankManagementSystem-master\src\Common\BankManagementSystem.Common\bin\Debug\netstandard2.0\BankManagementSystem.Common.dll
+C:\Users\panka\Downloads\BankManagementSystem-master\BankManagementSystem-master\src\Common\BankManagementSystem.Common\bin\Debug\netstandard2.0\BankManagementSystem.Common.pdb
+C:\Users\panka\Downloads\BankManagementSystem-master\BankManagementSystem-master\src\Common\BankManagementSystem.Common\bin\Debug\netstandard2.0\BankManagementSystem.Data.Common.dll
+C:\Users\panka\Downloads\BankManagementSystem-master\BankManagementSystem-master\src\Common\BankManagementSystem.Common\bin\Debug\netstandard2.0\BankManagementSystem.Data.dll
+C:\Users\panka\Downloads\BankManagementSystem-master\BankManagementSystem-master\src\Common\BankManagementSystem.Common\bin\Debug\netstandard2.0\BankManagementSystem.Models.dll
+C:\Users\panka\Downloads\BankManagementSystem-master\BankManagementSystem-master\src\Common\BankManagementSystem.Common\bin\Debug\netstandard2.0\BankManagementSystem.Data.pdb
+C:\Users\panka\Downloads\BankManagementSystem-master\BankManagementSystem-master\src\Common\BankManagementSystem.Common\bin\Debug\netstandard2.0\BankManagementSystem.Data.Common.pdb
+C:\Users\panka\Downloads\BankManagementSystem-master\BankManagementSystem-master\src\Common\BankManagementSystem.Common\bin\Debug\netstandard2.0\BankManagementSystem.Models.pdb
+C:\Users\panka\Downloads\BankManagementSystem-master\BankManagementSystem-master\src\Common\BankManagementSystem.Common\obj\Debug\netstandard2.0\BankManagementSystem.Common.csproj.AssemblyReference.cache
+C:\Users\panka\Downloads\BankManagementSystem-master\BankManagementSystem-master\src\Common\BankManagementSystem.Common\obj\Debug\netstandard2.0\BankManagementSystem.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\panka\Downloads\BankManagementSystem-master\BankManagementSystem-master\src\Common\BankManagementSystem.Common\obj\Debug\netstandard2.0\BankManagementSystem.Common.AssemblyInfoInputs.cache
+C:\Users\panka\Downloads\BankManagementSystem-master\BankManagementSystem-master\src\Common\BankManagementSystem.Common\obj\Debug\netstandard2.0\BankManagementSystem.Common.AssemblyInfo.cs
+C:\Users\panka\Downloads\BankManagementSystem-master\BankManagementSystem-master\src\Common\BankManagementSystem.Common\obj\Debug\netstandard2.0\BankManagementSystem.Common.csproj.CoreCompileInputs.cache
+C:\Users\panka\Downloads\BankManagementSystem-master\BankManagementSystem-master\src\Common\BankManagementSystem.Common\obj\Debug\netstandard2.0\BankManagementSystem.Common.csproj.CopyComplete
+C:\Users\panka\Downloads\BankManagementSystem-master\BankManagementSystem-master\src\Common\BankManagementSystem.Common\obj\Debug\netstandard2.0\BankManagementSystem.Common.dll
+C:\Users\panka\Downloads\BankManagementSystem-master\BankManagementSystem-master\src\Common\BankManagementSystem.Common\obj\Debug\netstandard2.0\BankManagementSystem.Common.pdb

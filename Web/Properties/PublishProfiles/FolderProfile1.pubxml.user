@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\panka\Downloads\BankManagementSystem-master\BankManagementSystem-master\src\Web\bin\Release\netcoreapp3.1\publish\</_PublishTargetUrl>
+    <History>True|2022-03-23T18:18:40.9191693Z;True|2022-03-22T19:29:05.2038159+05:30;True|2022-03-22T18:48:49.7788433+05:30;</History>
+  </PropertyGroup>
+</Project>
